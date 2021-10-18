@@ -1,8 +1,8 @@
 # [nasa-hackathon-2019](https://2019.spaceappschallenge.org/)
 
 * **[Our project](https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/potato-planets/project)**
-* **[Team Leader](https://github.com/Vitsuji)**
-* **[Members](https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/potato-planets/members)**
+* **[Team Leader Vitalii](https://github.com/Vitsuji)**
+* **[Members](https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/potato-planets/members)** (I'am Egor)
 
 ## Description
 
